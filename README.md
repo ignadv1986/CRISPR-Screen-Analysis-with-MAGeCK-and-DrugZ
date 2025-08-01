@@ -1,4 +1,4 @@
-# CRISPR-Screen_ETP_ICRF
+# CRISPR/Cas9 Screen for TOP2 Inhibitor Resistance (ETP & ICRF)
 Analysis of CRISPR/Cas9-based screen to identify factors conferring resistance to Topoisomerase II (TOP2) inhibitors.
 
 ## Project overview
