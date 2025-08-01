@@ -25,9 +25,6 @@ The MAGeCK-generated `.txt` files (from the CRISPR screen readout) were analyzed
    Custom Python-based summary statistics, visualizations, and thresholds to identify sensitizing hits.  
    [Colab notebook →](https://colab.research.google.com/drive/199dA122dQar-znkweMBH1Oon_qSPy97b?usp=sharing)
 
-
-## Results
-
 ## Results
 
 - A normZ threshold of **< -3** was used to define genes that sensitize cells to TOP2 inhibitors.
