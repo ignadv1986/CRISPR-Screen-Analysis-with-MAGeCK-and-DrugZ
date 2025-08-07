@@ -1,9 +1,12 @@
 # CRISPR/Cas9 Screen for TOP2 Inhibitor Resistance (ETP & ICRF)
 Analysis of CRISPR/Cas9-based screen to identify factors conferring resistance to Topoisomerase II (TOP2) inhibitors.
 
+**Note:** This repository is not intended to present novel findings. All data and biological insights are based on our previously [published study](https://pubmed.ncbi.nlm.nih.gov/40516529/).
+The purpose of this project is to demonstrate practical skills in the analysis of genome-wide CRISPR/Cas9 screens, including the use of MAGeCK readout data, DrugZ-based scoring, and custom Python pipelines for hit identification and visualization. The dataset includes U2OS cells treated with two distinct Topoisomerase II inhibitors — etoposide (ETP) and ICRF-193 (ICRF) — to identify genes that confer resistance to drug-induced TOP2 trapping.
+
 ## Project overview
 
-CRISPR/Cas9-based screens were carried out to find factors sensitizing U2OS cells to two mechanistically different TOP2 inhibitors: etoposide (ETP) and ICRF-193 (ICRF). The details on how the screen was performed can be found in https://pubmed.ncbi.nlm.nih.gov/40516529/.
+CRISPR/Cas9-based screens were carried out to find factors sensitizing U2OS cells to two mechanistically different TOP2 inhibitors: etoposide (ETP) and ICRF-193 (ICRF). The details on how the screen was performed can be found in [this publication](https://pubmed.ncbi.nlm.nih.gov/40516529/).
 The resulting samples were processed by the sequencing facilites and total read counts were generated through MAGeCK. In this project we will focus in the analysis of these files, highlighting the factors that were followed up in the rest of the study mentioned above.
 
 ## Tools
