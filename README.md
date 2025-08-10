@@ -14,7 +14,7 @@ The resulting samples were processed by the sequencing facilites and total read 
 - **Python (v3.10+)**
 - **Packages**: Pandas, Matplotlib, NumPy
 - **Platform**: Google Colab
-- **Analysis algorithm**: [DruZ](https://pubmed.ncbi.nlm.nih.gov/31439014/) (Python implementation)
+- **Analysis algorithm**: [DrugZ](https://pubmed.ncbi.nlm.nih.gov/31439014/) (Python implementation)
 
 ## Analysis
 
